@@ -1,2 +1,3 @@
 user getUser()
-  return new UserMaster()
+  return new UserMaster(cuooooo)
+  return new User()
