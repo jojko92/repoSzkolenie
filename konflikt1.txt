@@ -1,0 +1,2 @@
+user getUser()
+  return new User()
